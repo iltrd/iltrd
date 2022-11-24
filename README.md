@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Oi sou a Letícia Tavares, desenvolvedora back-end!
 <div align="center">
   <a href="https://github.com/iltrd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeticiaTavares&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iltrd&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeticiaTavares&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iltrd&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="let-Go" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
