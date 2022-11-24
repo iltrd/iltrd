@@ -34,7 +34,6 @@ Here are some ideas to get you started:
   
   <div> 
   <a href="https://www.instagram.com/leticiatrda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/gaAPdHpydN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato.tavaresleticia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticiatrandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
@@ -42,4 +41,9 @@ Here are some ideas to get you started:
  
 </div>
 
+  ## Minas In Tech 👩‍💻
+Idealizadora do projeto @minas.in.tech, comunidade criada com o intuito de ajudar mulheres iniciando na aréa tech. 
+  <br></br>
+  <a href="https://www.instagram.com/minas.in.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/gaAPdHpydN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
